@@ -1,0 +1,29 @@
+# Manim output directories
+media/
+__pycache__/
+
+# Manim cache files
+*.npz
+*.pkl
+
+# Temporary files and backups
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Virtual environment and dependencies
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
