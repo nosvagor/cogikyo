@@ -2,7 +2,6 @@
 
 What is the purpose of conversation?
 
-
 ## Intro
 
 My favorite questions are those that seem obvious at first glance, but closer
@@ -283,7 +282,6 @@ let's just assume there are only two parties involved, for brevity's sake.
     other to comply, and the participating party is primarily just trying to
     discover how stop the threat.
 
-
 Of course, there is no objective scale I used to generate these
 numbers. Therefore, it's probably hard to replicate and falsify my hypothesis if
 I don't at least attempt to make way quantify "reasons for a conversation".
@@ -298,13 +296,11 @@ random from diverse populations and cultures (best attempt at a general
 representative sample possible).
 
 Both groups would be told that they are going to group conversations by
-a general purpose, or _reason for_ the conversation.
-
-One group would be shown several examples of how conversation were mapped
-somewhere in-between alignment and discovery as their primary _purpose_.
-
-The other group (the control group) would be told nothing, and just ask to group
-reasons (if any) in any way they see fit.
+a general purpose, or _reason for_ the conversation. One group would be shown
+several examples of how conversation were mapped somewhere in-between alignment
+and discovery as their primary _purpose_. The other group (the control group)
+would be told nothing, and just asked to group reasons (if any) in any way they
+see fit.
 
 Under this setup, then I'd predict that:
 
@@ -321,4 +317,136 @@ Under this setup, then I'd predict that:
   with similar odd situations, indicating that the framing of what _the purpose_
   is was poorly communicated or heavy-handed.
 
+Am I actually going to do this experiment? I mean, it would be fun, but I don't
+have the means to do it. However, I find it important to at least try to design
+a realistic experiment that falsify one's own beliefs, otherwise I find sharing
+such beliefs often tend to be a form of unproductive, dogmatic preaching.
+
+Anyway, moving on. Let's explore a common question that I find is often raised
+at this point, and one that I hinted at earlier. What about _deep_
+conversations? Meaningful conversations? ... And again, what about meaningless
+conversations? How does the alignment & discovery dimension account for this
+variable?
+
+
+### Shallow &harr; Deep
+
+I admit, this feels like an orthogonal dimension, that is, a seemly unrelated
+spectrum that conversations could exist within. It appears that, if you map
+a conversation to some place between alignment & discovery, then one could
+easily imagine that it could be possible to modulate how _meaningful_
+a conversation is, without changing the _purpose_ of a conversation.
+
+For a long time I believed this framing. Some conversations I had felt
+amazing, energizing, and truly meaningful. While others, felt dull, a waste of
+time, and often had a lingering depressing impact on me.
+
+I assume that everyone wants more of the former, and less of the
+latter. I certainly do, and it's in large part why I became so interested in
+_the purpose_ of conversations, because this self-reflection coincided with my
+reading of How to Have Impossible Conversations. To me, it felt like the most
+meaningful conversations were also the same ones that seemed to be on the verge of
+being impossible.
+
+Now, at this current time, I am starting to understand something I missed
+before. I think the assumption I made was correct, most people hate shallow
+conversations, but... I think I've dramatically failed to understand where that
+meaning is derived from.
+
+I've learned how to have these impossible conversations. In fact, I crave
+them. I love talking to people that have crazy ideas or wildly different world
+views than myself. The thing is, I think most other people do not feel the same way.
+
+I'm not sure if it's the best analogy, but let me try one out to help explain
+what I mean.
+
+If you don't know how to ski, or you are still learning, then skiing is probably
+going to suck. You're going to fall a lot, get wet, somehow get too hot and too
+cold, your legs will hurt, and you'll probably get embarrassed if skiing with
+people much better than you.
+
+Once you learn, however, then skiing is one of those sports that easily gets you
+into the flow state. That's because it's hard, failure matters (you can get
+hurt), and you have instantaneous feedback if your doing well, and doing well
+feels amazing as you glide across the snow at high speed while adrenaline rushes
+through your veins.
+
+Now, maybe the analogy didn't do much for you, but I'm sure you've experienced
+or heard of the flow state before, or heard of it; some even claim it has moved
+a little too far into poorly replicated pop psychology realm. However, the point
+is, the _flow state_, or aspects of it, seem like an essential component to
+making something meaningful.
+
+Notably, the source of the flow state appears to be incredibly diverse, and most
+dependent on the person experiencing it. The richness of the state appears to
+correlate with how much experience with the activity, with more experience
+leading to deeper and more meaningful experiences.
+
+Brining it back to my revelation: I've learned that I may derive immense meaning
+from these impossible conversations, but most others do not. Unfortunately, I've
+burned relationships I cared about due to my assumption that others enjoy such
+conversations. I have often failed to walk away, or not dive deeper, when I should have
+remained casual and saved the conversation for a different time.
+
+Now, I struggle with determining _when_ I should have such
+conversations. Ironically, I find that the better I get at these impossible
+conversations, the less I enjoy "normal" conversations; the more uncomfortable
+I feel at parties; the less I feel like I can be myself; the more isolated
+I feel. It sucks, and I predict I'm not alone in feeling this way.
+
+Hence, the topic of this video. Maybe, if I can return to the fundamentals and
+determine the purpose conversation as a whole, and understand how others view
+the purpose of conversation, then perhaps I can be more adapt at having
+conversations that I find meaningful, while not alienating and discomforting
+others in the process.
+
+> Anyway, Personal psychoanalysis and anecdote over. Back to the point:
+
+I don't think the richness, the meaningfulness, of a conversation is orthogonal
+to the purpose. This is because of my two previously mentioned propositions:
+
+> 1.) The purpose of a conversation does not vary, instead, conversations can contain other conversations.
+
+> 2.) There is no ultimate hierarchy to the set of all conversations, instead, it depends on the reference frame of the parties involved.
+
+Essentially, most conversations have multiple, intertwining, branching, and
+merging threads. Each thread could be said to be _a purpose_. Each party may
+have a different initial, or primary, thread that they care about or assume the
+conversation is on.
+
+Furthermore, I suspect the perceived depth of a conversation is more likely
+a result of how close the current conversational thread matches the party's
+personal goal. Presumably, if the goals of both parties align, then I'd bet that
+there is a massive boost to how fruitful a conversation can be. Perhaps the
+purpose of small talk still is to align parties, for the real conversation that
+usually follows.
+
 ## Conclusion
+
+Hopefully, I way able to articulate what I assume to be the _the purpose_ of
+conversations.  Again, I hypothesize there always in is one, and it exists
+somewhere between alignment and discovery. Meanwhile, conversational depth is
+potentially just a measure of how far away from the center, or how well the
+purpose matches the parties goal[. For example,
+
+- A light conversation would have a rather neutral measure, wherein the parties
+involved don't care much about the contents. Either because there isn't time to
+get into anything deeper (the elevator), or perhaps one side is fishing way to
+dive deeper via use of simple questions that allow for alignment around shared
+virtues that may to serve as a sturdy foundation.
+
+- Alternatively, a heavy conversation would have a very weighted purpose, like
+a interview (or interrogation), where one party is primarily discovering, and
+the other is primarily aligning the interviewer around their understanding of
+a subject.
+
+- Others conversations, like flirting, would be meaningful, but still light and
+playful. This is because you have to maintain plausible deniability, playfully
+hiding and revealing your intentions in a fun dance; trying to hard to align or
+too hard to discover is would ruin the game.
+
+- And finally, the collective rehashing of stories among friends. Perhaps the
+hardest to give a reason for initially, but now should be obvious. The _purpose_
+seems to clearly be to continually align a group around a shared narrative. Each
+story is an instance the group recounting the story, highlighting the important
+virtues, and possibly sharing the culture to anyone new in the group.
