@@ -4,29 +4,28 @@ What is the purpose of conversation?
 
 ## Intro
 
-My favorite questions are those that seem obvious at first glance, but closer
-inspection reveals that there is actually no clear answer. For example, this
-scene from Arrival demonstrates how even a simple question, from our
-perspective, can actually be quite complex:
+The best questions often appear simple, yet upon closer examination,
+tend to expose an underlying intricacy rich with potential wisdom. For example,
+this scene from Arrival demonstrates how even a straightforward question, from
+our perspective, can be quite nuanced:
 
 [The Nature of a Question Scene](https://youtu.be/9YJRtvamIjU?t=53)
 
-Okay, so returning to the initial question:
-
-> What is _the purpose_ of conversation?
+Okay, so returning to the initial question: what is _the purpose_ of conversation?
 
 Unlike the aliens in Arrival, I can probably assume that you understand what
 a question is, so we can skip over that part. However, is it actually safe to
 assume that you know what I mean when I'm asking about _the purpose_?
 
-What do I mean when I say _purpose_? At first, the answer seems clear: "purpose"
-means the underlying reason, objective or goal.
+At first, the answer seems clear: it means the underlying reason, objective or
+goal.
 
-Easy. Done. Video over because we all know the reason why we converse with one
-another, right? It's simply to share what we are thinking? ...right?
+Easy. Done. Video over... because we all know the reason why we converse with
+one another, right? It's simply to share what we are thinking? ...right?
 
-Well, not so fast. Purpose appears to be somewhat synonymous with "why." That
-is, I could have easily asked, "Why do we engage in conversation?"
+Well, not so fast, let's take a step back. First, _purpose_ appears to be
+somewhat synonymous with "why." That is, I could have easily asked, "Why do we
+engage in conversation?"
 
 However, the same problem arises: "well, what do you mean by _why_?"
 
@@ -35,9 +34,9 @@ However, the same problem arises: "well, what do you mean by _why_?"
 > following video is going to be a bit philosophical, so if you like that kinda
 > thing, keep watching. If you don't, then leave, it won't hurt my feelings.
 >
-> To be frank, I want to get into the weeds here, because I'd like to clear out
-> the weeds the best I can. In doing so, maybe we can uncover some beautiful
-> ideas or spark fruitful counterpoints.
+> To be frank, I want to get into the weeds here, because I'd like to clear them
+> out the best I can. maybe we can uncover some beautiful ideas or spark
+> fruitful counterpoints.
 >
 > Therefore, before we get back to the video, let's try to make my goal and
 > thesis as clear as possible.
@@ -47,19 +46,17 @@ However, the same problem arises: "well, what do you mean by _why_?"
 > simply explore an idea that I have, and see what others might think of it.
 >
 > Note: this is my first attempt put myself out there and share something. I'll
-> probably get a few things wrong, but don't hold back. Ideally, I'd like
-> criticism to focus on the ideas presented, but I also welcome good-faith
-> feedback on _how_ I presented the ideas.
+> probably get a few things wrong, but don't hold back.
 
 Finally, with the disclaimer of the way... Here is the core idea I'll be
 exploring:
 
 I think there is a primary dimension upon which the purpose of conversation
-exists, that is, the _purpose_ of conversation exists on a spectrum between
-**Alignment** and **Discovery**.
+exists, that is, it exists somewhere on a spectrum between **Alignment**
+and **Discovery**.
 
-What do I mean? Well, if you're interested in hearing more, then keep
-watching. However, we need to cull some damned definitional weeds before
+What do I mean by Alignment and Discovery? Well, I promise I'll reveal that
+later, but first, we need to orient oursleves around some terms before
 continuing.
 
 ## Body
@@ -70,9 +67,10 @@ attempting to address here:
 [The Equivocation Problem](https://youtu.be/qag_uAVWdk4?t=3998)
 
 The discussion between Jordan Hal and John Vervaeke is extremely engaging;
-I encourage you to listen to the entire conversation.
+I encourage you to listen to the entire conversation&mdash;links to all referenced
+content will be in the description.
 
-The motivation to drill down on the definitions of some seemly obvious terms
+Hopefully, the motivation to drill down on the definitions of some seemly obvious terms
 should more clear now. Jordan proposes a solution (geared towards distributed
 governance), and I think the following claim of his is applicable here as
 well. Let's listen:
@@ -80,12 +78,12 @@ well. Let's listen:
 [~80% Reduction Rationale](https://youtu.be/qag_uAVWdk4?t=4166)
 
 Now, I'm not sure what the proper protocol is for a one-way video like this
-entails, but I'm attempting to deploy my own solution here, as I'm communicating
+entails, but I'm attempting to deploy a solution, as I'm communicating
 with people who barely know me and vice versa. My primary goal is to avoid
 endlessly debating terms later on, allowing us to focus on the core idea at
 hand.
 
-Sound good? Great, so let's begin by aligning ourselves around the first
+Sound good? Great. Now, let's begin by aligning ourselves around the first
 potentially problematic term: _the purpose_.
 
 ### &rarr; the purpose
@@ -240,11 +238,11 @@ parties involved.
 
 So, how am I defining alignment and discovery?
 
-Well, let's begin by reexamining the list of goals previously mentioned and
-mapping them to this dimension. Let's give alignment a value of max value of
--10, and discovery a max value of 10.
+Well, let's try to form a general sense of the definition by reexamining the list
+of goals previously mentioned and mapping them to this dimension. Let's give
+alignment a value of max value of -10, and discovery a max value of 10.
 
-Note: the decision on the scale, or the direction, is arbitrary. Left and right,
+> Note: the decision on the scale, or the direction, is arbitrary. Left and right,
 positive and negative, up and down... They all mean nothing, except in relation
 to each other. Also, conversations can more than 2 participants, but for now,
 let's just assume there are only two parties involved, for brevity's sake.
@@ -336,14 +334,14 @@ a conversation to some place between alignment & discovery, then one could
 easily imagine that it could be possible to modulate how _meaningful_
 a conversation is, without changing the _purpose_ of a conversation.
 
-For a long time I believed this framing. Some conversations I had felt amazing,
+For a long time I supported this framing. Some conversations I had felt amazing,
 energizing, and truly meaningful. While others, felt dull, a waste of time, and
 often had a lingering, depressive impact on me.
 
 I assume that everyone wants more of the former, and less of the
 latter. I certainly do, and it's in large part why I became so interested in
 _the purpose_ of conversations, because this self-reflection coincided with my
-reading of How to Have Impossible Conversations. To me, it felt like the most
+reading of _How to Have Impossible Conversations_. To me, it felt like the most
 meaningful conversations were also the same ones that seemed to be on the verge
 of being impossible.
 
@@ -354,7 +352,7 @@ meaning is derived from for the majority of people.
 
 I've learned how to have these impossible conversations. In fact, I crave
 them. I love talking to people that have crazy ideas or wildly different world
-views than myself. The thing is, I think most other people do not feel the same
+views than myself. The thing is, I worry most other people do not feel the same
 way.
 
 I'm not sure if it's the best analogy, but let me try one out to help explain
@@ -473,5 +471,5 @@ upon where you might be at on the measure between alignment and discovery for
 a particular conversation.
 
 Next up will be a video exploring the idea of concave and convex
-dispositions. The exploration will hopefully make the motivation behind of
+dispositions. The exploration should make the motivation behind of
 mapping _the purpose of a conversation_ onto a single dimension more clear.
