@@ -7,7 +7,7 @@ What is the purpose of conversation?
 The best questions often appear simple, yet upon closer examination,
 tend to expose an underlying intricacy rich with potential wisdom. For example,
 this scene from Arrival demonstrates how even a straightforward question, from
-our perspective, can be quite nuanced:
+a different perspective, can be quite nuanced:
 
 [The Nature of a Question Scene](https://youtu.be/9YJRtvamIjU?t=53)
 
@@ -30,25 +30,28 @@ engage in conversation?"
 However, the same problem arises: "well, what do you mean by _why_?"
 
 > Okay, sidebar: I need to be explicit&mdash;I'm not trying to be give you an
-> intellectual run-around, and I'm not trying to be overly pedantic. The
-> following video is going to be a bit philosophical, so if you like that kinda
-> thing, keep watching. If you don't, then leave, it won't hurt my feelings.
+> intellectual run-around, nor am I striving to be overly pedantic. This video
+> will venture into a philosophical territory, so if that appeals to you, then
+> keep watching. If it doesn't, then leave; no hard feelings .... _okay a I'll be
+> a little hurt_ :/
 >
 > To be frank, I want to get into the weeds here, because I'd like to clear them
-> out the best I can. maybe we can uncover some beautiful ideas or spark
-> fruitful counterpoints.
+> out the best I can so that maybe we can uncover some interesting ideas, or plant
+> the seeds for fruitful counterpoints.
 >
 > Therefore, before we get back to the video, let's try to make my goal and
 > thesis as clear as possible.
 >
 > I am **not** trying to persuade you to adopt a belief or explain a concept to
-> you. While I might inadvertently do these things, but my intention is to
-> simply explore an idea that I have, and see what others might think of it.
+> you. While I might inadvertently do these things, my true intention is to
+> simply explore an idea that I have and invite others to share their thoughts
+> on it.
 >
-> Note: this is my first attempt put myself out there and share something. I'll
-> probably get a few things wrong, but don't hold back.
+> Keep in mind: this is my first attempt put myself out there and share
+> something. I may falter at times, but don't hold back; feel free to share
+> genuine criticism.
 
-Finally, with the disclaimer of the way... Here is the core idea I'll be
+Now, with the disclaimer of the way... Here is the core idea I'll be
 exploring:
 
 I think there is a primary dimension upon which the purpose of conversation
@@ -56,7 +59,7 @@ exists, that is, it exists somewhere on a spectrum between **Alignment**
 and **Discovery**.
 
 What do I mean by Alignment and Discovery? Well, I promise I'll reveal that
-later, but first, we need to orient oursleves around some terms before
+later, but first, we need to orient ourselves around some terms before
 continuing.
 
 ## Body
@@ -321,7 +324,13 @@ have the means to do it. However, I find it important to at least try to design
 a realistic experiment that falsify one's own beliefs, otherwise such beliefs
 tend to be a form of unproductive, dogmatic preaching.
 
-Anyway, moving on. Let's explore a common question that is often raised at this
+Also, since I'm still in the exploratory phase of this conjecture, then I'm
+going to avoid explicitly defining alignment and discovery. I don't want to lay
+claim on these words. Instead, I'm merely trying to demonstrate there is
+a dimension upon which _purpose_ can be mapped to that can help one self
+reflect on their own goal.
+
+Anyway, moving on: Let's explore a common question that is often raised at this
 point, and one that I hinted at earlier. What about _deep_ conversations?
 Meaningful conversations? ... And again, what about meaningless conversations?
 How does the alignment & discovery dimension account for this variable?
@@ -386,11 +395,16 @@ burned relationships I cared about due to my assumption that others enjoy such
 conversations. I have often failed to walk away, or not dive deeper, when
 I should have remained casual and saved the conversation for a different time.
 
-Now, I struggle with determining _when_ I should have such
-conversations. Ironically, I find that the better I get at these impossible
-conversations, the less I enjoy "normal" conversations; the more uncomfortable
-I feel at parties; the less I feel like I can be myself; the more isolated
-I feel. It sucks, and I predict I'm not alone in feeling this way.
+Now, I struggle with determining _when_ I should have such conversations. I find
+that the better I get at these impossible conversations, the less I enjoy
+"normal" conversations. I feel more uncomfortable at parties, less likely to
+express what I feel, and more isolated. Ironically, I feel more equipped to
+have any conversation than ever before, so it's not a matter of being lost
+here... I think it's more likely that I am somewhat addicted to these harder
+conversations.
+
+Perhaps I've never found the right crowd, and haven't tried hard enough to find
+such people. It sucks, and I predict I'm not alone in feeling this way.
 
 Hence, the topic of this video. Maybe, if I can return to the fundamentals and
 determine the purpose of conversation as a whole, and understand how others view
@@ -401,7 +415,11 @@ others in the process.
 > Anyway, personal psychoanalysis and anecdote over. Back to the point:
 
 I don't think the richness, the meaningfulness, of a conversation is orthogonal
-to the purpose. This is because of my two previously mentioned propositions:
+to the purpose. In fact, I think the previous assumption that it was orthogonal
+is what has lead me to be confused about _when_ to have conversations.
+
+I think the solution to my problem involves two previously mentioned
+propositions. Again:
 
 > 1.) The purpose of a conversation does not vary, instead, conversations can
 > contain other conversations.
@@ -414,20 +432,7 @@ merging threads. Each thread could be said to be _a purpose_. Each party may
 have a different initial, or primary, thread that they care about or assume the
 conversation is on.
 
-Furthermore, I suspect the perceived depth of a conversation is more likely
-a result of how close the current conversational thread matches the party's
-personal goal. Presumably, if the goals of both parties align, then I'd bet that
-there is a massive boost to how fruitful a conversation can be. Perhaps the
-purpose of small talk still is to align parties, for the "real" conversation
-that usually follows.
-
-## Conclusion
-
-Hopefully, I was able to articulate what I assume to be _the purpose_ of
-conversations. Again, I hypothesize there always in is one, and it exists
-somewhere between alignment and discovery. Meanwhile, conversational depth is
-potentially just a measure of how far away from the center, or how well the
-purpose matches the party's goal. For example,
+Some examples:
 
 - A light conversation would have a rather neutral measure, wherein the parties
   involved don't care much about the contents. Either because there isn't time
@@ -452,6 +457,38 @@ purpose matches the party's goal. For example,
   highlighting the important virtues, and possibly sharing the culture to anyone
   new in the group.
 
+Overall, I suspect the perceived depth of a conversation is more likely
+a result of how close the current conversational thread matches the party's
+personal goal. Presumably, if the goals of both parties align, then I'd bet that
+there is a massive boost to how fruitful a conversation can be. Perhaps the
+purpose of small talk still is to align parties, for the "real" conversation
+that usually follows.
+
+I think the largest component to my problem is not understanding how hard it is
+to align with others, and I have failed to properly invest the time to align the
+conversation before diving into discovery mode.
+
+I personally love being shown how I was wrong. Yes, it always sucks in the
+moment... but as long as I don't mess up too badly, then it is most often the
+desired outcome. This is the second largest component to my problem, as
+I overestimate how much other people tend to align with me on this point.
+
+My current understanding suggests that that conversational depth is
+potentially just a measure of how far away from the center, or how well the
+purpose matches the party's goal&mdash;so optimizing for depth simply requires
+more attention to conversations that focus on alignment.
+
+## Conclusion
+
+Another major influence for this hypothesis originates from a story from Richard
+Feynman.
+
+> [Feynman](audio clip)
+
+Hopefully, I was able to articulate what I assume to be _the purpose_ of
+conversations. Again, I hypothesize there always in is one, and it exists
+somewhere between alignment and discovery.
+
 Is this framing useful? I think so, since healthy conversation with each other
 seem to be essential across all aspects in life. I bet that anyone who can
 internalize this concept will be able to quickly orient themselves, increasing
@@ -471,5 +508,6 @@ upon where you might be at on the measure between alignment and discovery for
 a particular conversation.
 
 Next up will be a video exploring the idea of concave and convex
-dispositions. The exploration should make the motivation behind of
-mapping _the purpose of a conversation_ onto a single dimension more clear.
+dispositions. The exploration of these dispositions should make the motivation
+behind of mapping _the purpose of a conversation_ onto a single dimension more
+clear and useful.
